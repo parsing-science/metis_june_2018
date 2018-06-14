@@ -1,4 +1,4 @@
-# PyData NYC November 2017
+# PyLadies Meetup @ Metis June 13, 2018
 
 ## Set up
 ```
